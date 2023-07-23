@@ -3,9 +3,9 @@
 
 - 🌱 Actualmente estoy aprendiendo **React y Spring-boot**
 
-- 💬 Ask me about **React, Java, Python**
+- 💬 Preguntame sobre **React, Java, Python**
 
-- 📫 How to reach me **daniel.e.ramos.j@gmail.com**
+- 📫 Contactame **daniel.e.ramos.j@gmail.com**
 
 - ⚡ Fun fact **I like some videogames or Anime**
 
