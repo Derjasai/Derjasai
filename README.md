@@ -7,7 +7,7 @@
 
 - 📫 Contactame **daniel.e.ramos.j@gmail.com**
 
-- ⚡ Fun fact **I like some videogames or Anime**
+- ⚡ Fun fact **Me gustan algunos videojuegos y ver anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
