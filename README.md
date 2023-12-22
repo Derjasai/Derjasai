@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, yo soy Daniel Ramos</h1>
-<h3 align="center">Un ingeniero de sistemas apasionado por el desarrollo fullstack</h3>
+<h3 align="center">Ingeniero de sistemas apasionado por el desarrollo fullstack</h3>
 
 - 🌱 Actualmente estoy aprendiendo **React y Spring-boot**
 
